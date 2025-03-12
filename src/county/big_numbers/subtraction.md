@@ -1,0 +1,1 @@
+# Scăderea numerelor mari

@@ -1,0 +1,42 @@
+# Summary
+
+# Etapa Județeană
+
+- [Șiruri de caractere. Funcții specifice](./county/strings.md)
+  - [Funcții specifice](./county/strings/functions.md)
+  - [KMP](./county/strings/kmp.md)
+- [Structuri de date](./county/data_structures.md)
+  - [Stiva (stack)](./county/data_structures/stack.md)
+  - [Coada (queue)](./county/data_structures/queue.md)
+  - [Deque](./county/data_structures/deque.md)
+  - [STL](./county/data_structures/stl.md)
+- [Operații cu numere mari](./county/big_numbers.md)
+  - [Adunarea numerelor mari](./county/big_numbers/addition.md)
+  - [Scăderea numerelor mari](./county/big_numbers/subtraction.md)
+  - [Înmulțirea unui număr mare cu un număr natural](./county/big_numbers/multiplication.md)
+  - [Împărțirea cu rest a unui număr mare la un număr natural nenul](./county/big_numbers/division.md)
+- [Elemente de combinatorică](./county/combinatorics.md)
+  - [Numărarea elementelor combinatoriale](./county/combinatorics/counting.md)
+  - [Determinarea numărului de ordine](./county/combinatorics/order.md)
+  - [Aritmetică modulară](./county/combinatorics/modular.md)
+- [Recursivitate](./county/recursion.md)
+  - [Recursivitate indirectă](./county/recursion/indirect_recursion.md)
+- [Metoda Divide et Impera](./county/divide_and_conquer.md)
+
+# Etapa Națională
+
+- [Elemente de geometrie](./national/geometry.md)
+  - [Sistemul de coordonate cartezian](./national/geometry/coordinates.md)
+  - [Distanța dintre două puncte](./national/geometry/distance_points.md)
+  - [Ecuația dreptei](./national/geometry/line_equation.md)
+  - [Distanța dintre un punct și o dreaptă](./national/geometry/point_line_distance.md)
+  - [Panta unei drepte](./national/geometry/line_slope.md)
+  - [Intersecții de drepte și segmente](./national/geometry/intersections.md)
+  - [Arii](./national/geometry/areas.md)
+  - [Algoritmi de baleiere](./national/geometry/sweep_line.md)
+  - [Înfășurătoare convexă](./national/geometry/convex_hull.md)
+- [Metoda Backtracking](./national/backtracking.md)
+- [Metoda programării dinamice](./national/dynamic_programming.md)
+  - [Probleme de numărare](./national/dynamic_programming/counting.md)
+  - [Probleme de determinare a unei soluții optime](./national/dynamic_programming/optimization.md)
+  - [Memoizarea relațiilor de recurență](./national/dynamic_programming/memoization.md)

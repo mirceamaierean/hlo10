@@ -1,0 +1,1 @@
+# Panta unei drepte

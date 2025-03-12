@@ -1,0 +1,1 @@
+# Ecuația dreptei

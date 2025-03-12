@@ -1,0 +1,1 @@
+# Determinarea numărului de ordine
